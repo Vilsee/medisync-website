@@ -12,7 +12,7 @@
 
 **Three AI agents — Clinical Scribe, Drug Interaction Analyst, and Medical Coding Advisor — collaborate in real time to automate clinical documentation, powered by an open-source, pip-installable Python SDK.**
 
-[🌐 Live Demo](https://medisync-website.vercel.app) · [📖 Documentation](#-documentation) · [🎮 Playground](#-interactive-tools) · [🤝 Contributing](#-contributing)
+[🌐 Live Demo](https://medisync-website-new.vercel.app/) · [📖 Documentation](#-documentation) · [🎮 Playground](#-interactive-tools) · [🤝 Contributing](#-contributing)
 
 ---
 
